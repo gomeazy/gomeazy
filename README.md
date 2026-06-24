@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @gomeazy
-- 👀 I’m interested in technology, watches, and guitars
-- 🌱 I’m currently learning Python for gaming
-- I am a complete newb but learning as I go!
+Hi, I'm Michael Gomez and I am a seasoned enablement specialist and technical writer with 10 years of experience bridging the gap between software development and end-users. My background in information systems, coupled with expertise in SaaS and cloud environments, allows me to translate complex roadmaps into clear, actionable processes that drive scalability and success. 
+
 
 <!---
 gomeazy/gomeazy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
